@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\sbs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|c:\\users\\admin\\desktop\\sbs\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|c:\\users\\admin\\desktop\\sbs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|c:\\users\\admin\\desktop\\sbs\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\Migrations\\20240522122717_CreatedUsersTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:Migrations\\20240522122717_CreatedUsersTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|C:\\Users\\ADMIN\\Desktop\\sbs\\Migrations\\20240522111147_CreatedSbsDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64253E8-8BB9-48FB-81AC-D86A4ECDEC53}|sbs.csproj|solutionrelative:Migrations\\20240522111147_CreatedSbsDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:51:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:45:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:50:58.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:46:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:01:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:26:03.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv2YAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:20:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:36:56.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:52:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240522122717_CreatedUsersTables.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Migrations\\20240522122717_CreatedUsersTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522122717_CreatedUsersTables.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Migrations\\20240522122717_CreatedUsersTables.cs",
+              "RelativeToolTip": "Migrations\\20240522122717_CreatedUsersTables.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:27:17.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T14:20:33.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:35:56.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T11:18:44.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T11:15:05.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T11:15:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:14:21.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:39:17.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T11:12:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240522111147_CreatedSbsDb.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\Migrations\\20240522111147_CreatedSbsDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522111147_CreatedSbsDb.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\Migrations\\20240522111147_CreatedSbsDb.cs",
+              "RelativeToolTip": "Migrations\\20240522111147_CreatedSbsDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:11:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\sbs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\sbs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T10:41:26.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
